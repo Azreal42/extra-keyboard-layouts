@@ -161,4 +161,5 @@
 	<string name="keyboard_layout_wolof">Wolof</string>
   <string name="app_name">Extra Keyboard Layouts</string>
   <string name="keyboard_layouts_label">Extra keyboard layouts</string>
+  <string name="keyboard_layout_united_states_international">United States-International</string>
 </resources>
